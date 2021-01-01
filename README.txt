@@ -33,7 +33,8 @@ Programming Language
 --------------------
 C
 
-By: 
+Team Member Names
+------------------
 - Name  : Ace Kaung
 - Email : kaung006@umn.edu
 
