@@ -1,0 +1,33 @@
+<<<<<<< HEAD
+==10409== Memcheck, a memory error detector
+==10409== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==10409== Using Valgrind-3.13.0 and LibVEX; rerun with -h for copyright info
+==10409== Command: ./test_cmd cmd_new_3
+==10409== Parent PID: 10408
+==10409== 
+==10409== 
+==10409== HEAP SUMMARY:
+==10409==     in use at exit: 0 bytes in 0 blocks
+==10409==   total heap usage: 6 allocs, 6 frees, 2,381 bytes allocated
+==10409== 
+==10409== All heap blocks were freed -- no leaks are possible
+==10409== 
+==10409== For counts of detected and suppressed errors, rerun with: -v
+==10409== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+=======
+==7396== Memcheck, a memory error detector
+==7396== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==7396== Using Valgrind-3.13.0 and LibVEX; rerun with -h for copyright info
+==7396== Command: ./test_cmd cmd_new_3
+==7396== Parent PID: 7395
+==7396== 
+==7396== 
+==7396== HEAP SUMMARY:
+==7396==     in use at exit: 0 bytes in 0 blocks
+==7396==   total heap usage: 6 allocs, 6 frees, 2,381 bytes allocated
+==7396== 
+==7396== All heap blocks were freed -- no leaks are possible
+==7396== 
+==7396== For counts of detected and suppressed errors, rerun with: -v
+==7396== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+>>>>>>> 64710607f043dab33a4be644f90dff206290dfe0

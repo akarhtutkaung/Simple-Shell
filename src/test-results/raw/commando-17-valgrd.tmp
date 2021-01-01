@@ -1,0 +1,15 @@
+==31287== Memcheck, a memory error detector
+==31287== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==31287== Using Valgrind-3.13.0 and LibVEX; rerun with -h for copyright info
+==31287== Command: ./commando --echo
+==31287== Parent PID: 31286
+==31287== 
+==31287== 
+==31287== HEAP SUMMARY:
+==31287==     in use at exit: 0 bytes in 0 blocks
+==31287==   total heap usage: 52 allocs, 52 frees, 30,100 bytes allocated
+==31287== 
+==31287== All heap blocks were freed -- no leaks are possible
+==31287== 
+==31287== For counts of detected and suppressed errors, rerun with: -v
+==31287== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
